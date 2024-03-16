@@ -1,1 +1,3 @@
-# francescafrattini.github.io
+- 📫 How to reach me:
+  - Institutional email: francesca.frattini7@studio.unibo.it
+  - Personal email: francesfra@libero.it
